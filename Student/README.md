@@ -34,7 +34,7 @@
 | Ayush |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
-| Ayushi Bansal |     |      |        |         |
+| Mayankita Rana |  I   |   CSE   |  <a href= " https://github.com/mayankitarana"> mayankitarana</a>     |         |
 | bhavesh parihar |     |      |        |         |
 | Bhavya Choubisa |     |      |        |         |
 | deepak kabra |     |      |        |         |
