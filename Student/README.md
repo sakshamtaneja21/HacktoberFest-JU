@@ -79,7 +79,7 @@
 | Nimish Agarwal |     |      |        |         |
 | Niral Shah |     |      |        |         |
 | Parth Agarwal |     |      |        |         |
-| Piyush Agarwal |     |      |        |         |
+| Piyush Agarwal |II|CSE|<a href="https://www.github.com/piyushagarwal08">piyushagarwal</a>|i am a dedicated learner and very much interested in python and its applications.        |
 | piyush kumar |     |      |        |         |
 | piyush sharma |     |      |        |         |
 | Piyush Vaishya |     |      |        |         |
@@ -127,7 +127,7 @@
 | Vaishnavi Ajmera |     |      |        |         |
 | Vidhan |     |      |        |         |
 | Vipin Kumar |     |      |        |         |
-| Vishal Chauhan |     |      |        |         |
+| Vishal Chauhan |II|CSE|<a href="https://www.github.com/v4vnc">vishalchauhan</a>|I loves python|
 | Vishal Khandelwal |     |      |        |         |
 | Vishal Shukla |     |      |        |         |
 | Yajushi Srivastava |     |      |        |         |
