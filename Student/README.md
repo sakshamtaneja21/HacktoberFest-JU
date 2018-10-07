@@ -130,7 +130,8 @@
 | Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
 | Vishal Shukla |     |      |        |         |
-| Yajushi Srivastava |     |      |        |         |
+| Vivek Jain      |I|IT|<a href="https://www.github.com/vivekjain9801">vivekjain9801</a>
+|Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
