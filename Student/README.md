@@ -130,7 +130,7 @@
 | Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
 | Vishal Shukla |     |      |        |         |
-| Yajushi Srivastava |     |      |        |         |
+| Yajushi Srivastava | IV | CSE | <a href="https://github.com/yajushiSri/">YajushiSrivastava</a> | Docker Jaipur, Community Leader; PyJaipur Core Team |
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
