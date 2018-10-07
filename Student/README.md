@@ -43,7 +43,7 @@
 | Dikshant Verma |     |      |        |         |
 | Divyang Bhargava |     |      |        |         |
 | Dushyant Goyal |     |      |        |         |
-| Gargi Somani |     |      |        |         |
+| Gargi Somani |  I   | CSE     |  <a href="https://www.github.com/Gargisomani" target="_blank">Gargisomani</a>      |  i am gargi somani       |
 | Gaurav Singh yadav |     |      |        |         |
 | Gaurav Vaishnav |     |      |        |         |
 | Harsh Bhatnagar |     |      |        |         |
