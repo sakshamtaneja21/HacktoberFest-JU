@@ -134,6 +134,6 @@
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
-| Yuvraj Singh Panwar |     |      |        |         |
+| Abhineet Kumar |   I  |    CSE  |      <a href="github.com/abhineetkumar0">abhineetkumar0 </a>  |         |
 |  |     |      |        |         |
 |  |     |      |        |         |
