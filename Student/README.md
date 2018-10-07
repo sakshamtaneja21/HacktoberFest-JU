@@ -49,7 +49,7 @@
 | Harsh Bhatnagar |     |      |        |         |
 | Hemadri Gupta |     |      |        |         |
 | Hitesh Subnani |     |      |        |         |
-| Ishu Sharma |     |      |        |         |
+| Ishu Sharma |  I   |   CSE   |      <a href="https://github.com/IshuSharma9451">ishusharma</a>   |         |
 | Jaidev Tyagi |     |      |        |         |
 | Kartik Paliwal |     |      |        |         |
 | Kashish Nagpal |     |      |        |         |
