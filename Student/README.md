@@ -135,6 +135,5 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
-|Sandeep Singh Bisht | I |IT  | <a href="https;//www.github.com/bishtbaba"sandeepsinghbisht</a>| |
 |  |     |      |        |         |
 |  |     |      |        |         |
