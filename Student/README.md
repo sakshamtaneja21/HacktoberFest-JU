@@ -98,7 +98,7 @@
 | Ravi Gupta |     |      |        |         |
 | Ravi Kumawat |     |      |        |         |
 | Reeya Agrawal |     |      |        |         |
-| riju chakraborty |     |      |        |         |
+| Riju Chakraborty | II    |  CS    |<a href="https://github.com/RichieRij">RichieRij</a>      |         |
 | Rishabh Garg |     |      |        |         |
 | Roushan Prakash |     |      |        |         |
 | Rupin Soni |     |      |        |         |
