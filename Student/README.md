@@ -78,7 +78,7 @@
 | Nikita Goyal |     |      |        |         |
 | Nimish Agarwal |     |      |        |         |
 | Niral Shah |     |      |        |         |
-| Parth Agarwal |     |      |        |         |
+| Naveen Lalwani |I     | IT     | <a href="http://www.github.com/naveenlalwani1999">naveenlalwani</a>       |         |
 | Piyush Agarwal |     |      |        |         |
 | piyush kumar |     |      |        |         |
 | piyush sharma |     |      |        |         |
@@ -135,5 +135,6 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
+|Sandeep Singh Bisht | I |IT  | <a href="https;//www.github.com/bishtbaba"sandeepsinghbisht</a>| |
 |  |     |      |        |         |
 |  |     |      |        |         |
