@@ -135,5 +135,5 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         
-| mohit jain  |1st  |CSE  |mohitjain41  |<a herf="https://www.github.com/mohitjain41">mohitjain41</a>         |
+| mohit jain  |1st  |CSE  |mohitjain41  |<a href="https://www.github.com/mohitjain41" target="_blank">mohitjain41</a>         |
 |  |     |      |        |         |
