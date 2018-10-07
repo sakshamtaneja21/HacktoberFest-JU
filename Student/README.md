@@ -11,7 +11,7 @@
 | aditya surana |     |      |        |         |
 | Aishwarya Nuwal |     |      |        |         |
 | akshat singhal |     |      |        |         |
-| AKSHAY BENGANI | III | IT | <a href="https://www.github.com/akshaybengani" target="_blank">akshaybengani</a> |        |
+| AKSHAY BENGANI | III | IT | <a href="https://www.github.com/akshaybengani">akshaybengani</a> |        |
 | Akshay Gagrani |     |      |        |         |
 | akshi sancheti |     |      |        |         |
 | Aman Agrawal |     |      |        |         |
