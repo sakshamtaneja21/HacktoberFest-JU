@@ -1,7 +1,7 @@
 
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
-| Mohit Nama | 1st | CSE     |  <a href="https://www.github.com/ </a> |         |
+| Mohit Nama | 1st | CSE     |  <a href="https://www.github.com/mhtnama08/"</a> |         |
 | aastha jain |     |      |        |         |
 | Abhinav Saxena |     |      |        |         |
 | Abhishek Yadav |     |      |        |         |
