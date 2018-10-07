@@ -17,7 +17,7 @@
 | Aman Agrawal |     |      |        |         |
 | AMAN BANSAL |     |      |        |         |
 | Aman Jain |     |      |        |         |
-| Aman Jain |     |      |        |         |
+| Nidhi jajoo |II     | CSE    |<a href="http://www.github.com/nidjaj">nidjaj</a>        |         |
 | Aman Vijay |     |      |        |         |
 | ANJALI ANUPAM |     |      |        |         |
 | Ankur Shah |     |      |        |         |
