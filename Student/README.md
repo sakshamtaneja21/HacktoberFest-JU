@@ -126,7 +126,7 @@
 | Vaishali Singh |     |      |        |         |
 | Vaishnavi Ajmera |     |      |        |         |
 | Vidhan |     |      |        |         |
-| Vipin Kumar |     |      |        |         |
+| Vipin Kumar |   II  | CSE     |<a href="https://www.github.com/vipinkumarpsr" target="_blank">vipinkumar</a>         |         |
 | Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
 | Vishal Shukla |     |      |        |         |
