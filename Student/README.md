@@ -65,7 +65,7 @@
 | Mahima Khandelwal |     |      |        |         |
 | Manav Jangid |     |      |        |         |
 | Mayank Devnani |     |      |        |         |
-| meenal sarda |     |      |        |         |
+| meenal sarda |   III | CSE  |  <a href="https://github.com/meenalsarda">meenalsarda</a>|         |
 | Mohit Sharma |     |      |        |         |
 | molishree nuwal |     |      |        |         |
 | Moulik Aggarwal |     |      |        |         |
