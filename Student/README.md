@@ -49,7 +49,7 @@
 | Harsh Bhatnagar |     |      |        |         |
 | Hemadri Gupta |     |      |        |         |
 | Hitesh Subnani |     |      |        |         |
-| Ishu Sharma |  I   |   CSE   |      <a href="https://github.com/IshuSharma9451">ishusharma</a>   |         |
+| Ishu Sharma |  I   |   CSE   |      hush<a href="https://github.com/IshuSharma9451">isarma</a>   |         |
 | Jaidev Tyagi |     |      |        |         |
 | Kartik Paliwal |     |      |        |         |
 | Kashish Nagpal |     |      |        |         |
@@ -135,5 +135,5 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
-|  |     |      |        |         |
+|Pinachi Bajaj  |  I   |   CSE   |<a href="https://github.com/pinachibajaj">pinachibajaj</a>        |         |
 |  |     |      |        |         |
