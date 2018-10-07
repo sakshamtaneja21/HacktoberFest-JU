@@ -135,5 +135,5 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
-|  |     |      |        |         |
+| mohit jain  |1st  |CSE  |mohitjain41  |         |
 |  |     |      |        |         |
