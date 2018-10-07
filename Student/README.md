@@ -135,5 +135,4 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |  I  | IT     |  <a href="https://www.github.com/yuvanksoni@gmail.com">YuvankSoni</a>      |         |
 | Yuvraj Singh Panwar |     |      |        |         |
-|  |     |      |        |         |
-|  |     |      |        |         |
+|  |     |      |        |         ||     |      |        |         |
