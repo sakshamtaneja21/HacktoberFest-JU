@@ -2,7 +2,7 @@
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
 | Aakash Jaiswal |     |      |        |         |
-| aastha jain |     |      |        |         |
+| Niteesh Pandey | II | CSE | <a herf="https://www.github.com/niteeshpandey" target="_blank">niteeshpandey</a>       |         |
 | Abhinav Saxena |     |      |        |         |
 | Abhishek Yadav |     |      |        |         |
 | Adesh Gautam |     |      |        |         |
