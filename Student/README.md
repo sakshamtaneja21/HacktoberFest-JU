@@ -132,7 +132,7 @@
 | Vishal Shukla |     |      |        |         |
 | Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
-| YASH JAIN |     |      |        |         |
+| YASH JAIN |  III   |  CSE   |<a href="https://www.github.com/yashj13">yashj13</a>  |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
 |  |     |      |        |         |
