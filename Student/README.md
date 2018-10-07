@@ -107,7 +107,7 @@
 | Saksham Karnawat |     |      |        |         |
 | Sakshi |     |      |        |         |
 | Sakshi Goyal |     |      |        |         |
-| Sambhav Jain |     |      |        |         |
+| Sambhav Jain | I | IT | <a href="https://github.com/EpicSambhav">EpicSambhav</a> |         |
 | samiksha paliwal |     |      |        |         |
 | Shashank Tiwari |     |      |        |         |
 | Shivam Singh |     |      |        |         |
