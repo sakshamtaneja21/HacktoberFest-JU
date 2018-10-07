@@ -1,4 +1,3 @@
-
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
 | Aakash Jaiswal |     |      |        |         |
@@ -19,7 +18,7 @@
 | Aman Jain |     |      |        |         |
 | Aman Jain |     |      |        |         |
 | Aman Vijay |     |      |        |         |
-| ANJALI ANUPAM |     |      |        |         |
+| ANJALI ANUPAM | II | CSE | <a href="https://github.com/khusbux" target="_blank">khusbux</a>     |        |         |
 | Ankur Shah |     |      |        |         |
 | ankush shekhawat |     |      |        |         |
 | Anshul Vijay |     |      |        |         |
@@ -30,7 +29,7 @@
 | Arpit Goyal |     |      |        |         |
 | arun mahur |     |      |        |         |
 | Aryan singh |     |      |        |         |
-| Avinash kumar |     |      |        |         |
+| Avinash kumar | II  | CSE   | <a href="https://github.com/Avinashx" target="_blank">Avinashx</a> | #HackerBoy #You can call me X       |
 | Ayush |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
