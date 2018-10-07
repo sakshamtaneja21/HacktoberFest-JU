@@ -106,7 +106,7 @@
 | Saijal Jain |     |      |        |         |
 | Saksham Karnawat |     |      |        |         |
 | Sakshi |     |      |        |         |
-| Sakshi Goyal |     |      |        |         |
+| Sakshi Goyal | III   | CSE   |  <a href="https://www.github.com/goyalsakshi246" target="_blank">goyalsakshi246</a>|         |
 | Sambhav Jain |     |      |        |         |
 | samiksha paliwal |     |      |        |         |
 | Shashank Tiwari |     |      |        |         |
@@ -134,6 +134,5 @@
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
-| Yuvraj Singh Panwar |     |      |        |         |
-|  |     |      |        |         |
+| Yuvraj Singh Panwar |     |      |        |         |  |     |      |        |         |
 |  |     |      |        |         |
