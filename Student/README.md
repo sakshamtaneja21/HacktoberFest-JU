@@ -133,7 +133,7 @@
 | Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
-| Yuvank soni |     |      |        |         |
+| Yuvank soni |  I  | IT     |  <a href="https://www.github.com/yuvanksoni@gmail.com">YuvankSoni</a>      |         |
 | Yuvraj Singh Panwar |     |      |        |         |
 |  |     |      |        |         |
 |  |     |      |        |         |
