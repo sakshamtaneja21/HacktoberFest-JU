@@ -1,7 +1,7 @@
 
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
-| Aakash Jaiswal |     |      |        |         |
+| Mohit Nama | 1st | CSE     |   mhtnama08     |         |
 | aastha jain |     |      |        |         |
 | Abhinav Saxena |     |      |        |         |
 | Abhishek Yadav |     |      |        |         |
