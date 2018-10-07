@@ -66,7 +66,7 @@
 | Manav Jangid |     |      |        |         |
 | Mayank Devnani |     |      |        |         |
 | meenal sarda |     |      |        |         |
-| Mohit Sharma |     |      |        |         |
+| mrigank saxena |1st year      | branch      |<a href ="https://github.com/mrigankS30/"> mrigankS30 </a>      |         |
 | molishree nuwal |     |      |        |         |
 | Moulik Aggarwal |     |      |        |         |
 | mridul upadhyay |     |      |        |         |
