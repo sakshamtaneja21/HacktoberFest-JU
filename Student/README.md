@@ -31,7 +31,7 @@
 | arun mahur |     |      |        |         |
 | Aryan singh |     |      |        |         |
 | Avinash kumar |     |      |        |         |
-| Ayush |     |      |        |         |
+| Ayush |Ist year     |BCA      |<a herf="https://www.github.com/aayush7037">aayush7037</a>         |
 | Ayush Sharma |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
 | Ayushi Bansal |     |      |        |         |
@@ -63,7 +63,7 @@
 | Kushagra Wadhwa |     |      |        |         |
 | Lakshya Singhvi |     |      |        |         |
 | Mahima Khandelwal |     |      |        |         |
-| Manav Jangid |     |      |        |         |
+| Manav Jangid |  I   |   IT   |   <a herf="https://www.github.com/manav333">Manav333</a>     |         |
 | Mayank Devnani |     |      |        |         |
 | meenal sarda |     |      |        |         |
 | Mohit Sharma |     |      |        |         |
