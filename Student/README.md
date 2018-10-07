@@ -105,7 +105,7 @@
 | Sachin Agarwal |     |      |        |         |
 | Saijal Jain |     |      |        |         |
 | Saksham Karnawat |     |      |        |         |
-| Sakshi |     |      |        |         |
+| Sakshi |  I  |  CSE    |  <a href="https://github.com/sakshipareek" > sakshi pareek </a>      |         |
 | Sakshi Goyal |     |      |        |         |
 | Sambhav Jain |     |      |        |         |
 | samiksha paliwal |     |      |        |         |
