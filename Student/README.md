@@ -18,7 +18,7 @@
 | Aman Jain |     |      |        |         |
 | Aman Jain |     |      |        |         |
 | Aman Vijay |     |      |        |         |
-| ANJALI ANUPAM | II | CSE | <a href="https://github.com/khusbux" target="_blank">khusbux</a>     |        |         |
+| ANJALI ANUPAM | II | CSE | <a href="https://github.com/khusbux" target="_blank">khusbux</a>     | jecrcian       | from nalanda(Bihar)        |
 | Ankur Shah |     |      |        |         |
 | ankush shekhawat |     |      |        |         |
 | Anshul Vijay |     |      |        |         |
