@@ -86,6 +86,7 @@
 | Prachi varshney |     |      |        |         |
 | prakash Raj |     |      |        |         |
 | PRAKHAR SAXENA |     |      |        |         |
+| Pratik Bansal  |III  | IT   |<a href="https://github.com/pratik-bansal">pratikbansal</a>|  | 
 | Prashant Gupta |     |      |        |         |
 | Pratham Lalawat |     |      |        |         |
 | Pratul Kumar |     |      |        |         |
