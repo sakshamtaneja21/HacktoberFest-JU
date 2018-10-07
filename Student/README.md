@@ -136,4 +136,4 @@
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
 |  |     |      |        |         |
-| Aryan Dadheech |  I   |   CSE   |    <a href="https://github.com/n0obs73r" </a>    |         |
+| Aryan Dadheech |  I   |   CSE   |    <a href="https://github.com/n0obs73r" target=_blank > Aryan Dadheech </a>    |         |
