@@ -135,5 +135,5 @@
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
 | Yuvraj Singh Panwar |     |      |        |         |
-|  |     |      |        |         |
+|Rajeev Lochan Sharma  |II     | CSE     |<a href = "www.github.com/Rajeevlochansharma">Rajeev</a>    |i am rajeev         |
 |  |     |      |        |         |
