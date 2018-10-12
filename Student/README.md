@@ -30,7 +30,7 @@
 | Arpit Goyal |     |      |        |         |
 | arun mahur |     |      |        |         |
 | Aryan singh |     |      |        |         |
-| Avinash kumar |     |      |        |         |
+| Avinash kumar | II  | CSE | <a href="https://www.github.com/Avinashx" target="_blank">Avinashx</a>       |         |
 | Ayush |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
