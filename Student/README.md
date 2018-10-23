@@ -86,7 +86,7 @@
 | Prachi varshney |     |      |        |         |
 | prakash Raj |     |      |        |         |
 | PRAKHAR SAXENA |     |      |        |         |
-| Prashant Gupta |     |      |        |         |
+| Prashant Gupta | III |  IT   | <a href="https://github.com/Prashant3009" target="_blank">Prashant3009</a>       |         |
 | Pratham Lalawat |     |      |        |         |
 | Pratul Kumar |     |      |        |         |
 | Prem Singh Rathore |     |      |        |         |
