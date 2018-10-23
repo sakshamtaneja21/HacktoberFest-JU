@@ -139,7 +139,8 @@
 | Vivek Jain      |I|IT|<a href="https://www.github.com/vivekjain9801">vivekjain9801</a>
 | Yajushi Srivastava | IV | CSE | <a href="https://github.com/yajushiSri/">YajushiSrivastava</a> | Docker Jaipur, Community Leader; PyJaipur Core Team |
 | Vishal Shukla | II  |  IT  | <a href="https://github.com/vshukla850" target="_blank">vshukla850</a> |         |
-| Yash Bhutoria |     |      |        |         |
+| Yash Bhutoria |     |      |        |         |   
+| mohit jain  |1st  |CSE  |mohitjain41  |<a href="https://www.github.com/mohitjain41" target="_blank">mohitjain41</a>         |
 | YASH JAIN |  III   |  CSE   |<a href="https://www.github.com/yashj13">yashj13</a>  |         |
 | Abhineet Kumar |   I  |    CSE  |      <a href="github.com/abhineetkumar0">abhineetkumar0 </a>  |         |
 | Yuvank soni |  I  | IT     |  <a href="https://www.github.com/yuvanksoni@gmail.com">YuvankSoni</a>      |         |
