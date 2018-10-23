@@ -113,7 +113,7 @@
 | Sakshi Goyal | III   | CSE   |  <a href="https://www.github.com/goyalsakshi246" target="_blank">goyalsakshi246</a>|         |
 | Sakshi |  I  |  CSE    |  <a href="https://github.com/sakshipareek" > sakshi pareek </a>      |         |
 | Sakshi Goyal |     |      |        |         |
-| Sambhav Jain |     |      |        |         |
+| Sambhav Jain | I | IT | <a href="https://github.com/EpicSambhav">EpicSambhav</a> |         |
 | samiksha paliwal |     |      |        |         |
 | Shashank Tiwari |     |      |        |         |
 | Shivam Singh |     |      |        |         |
