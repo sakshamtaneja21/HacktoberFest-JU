@@ -1,7 +1,9 @@
 
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
-| Aakhttps://github.com/kirtibajaj/HacktoberFest-JU.gitash Jaiswal |     |      |        |         |
+| Aakash Jaiswal |     |      |        |         |
+| Niteesh Pandey | II | CSE | <a herf="https://www.github.com/niteeshpandey" target="_blank">niteeshpandey</a>       |         |
+| Aakash Jaiswal |  https://github.com/kirtibajaj/HacktoberFest-JU.git   |      |
 | aastha jain |     |      |        |         |
 | Abhinav Saxena |     |      |        |         |
 | Abhishek Yadav |     |      |        |         |
