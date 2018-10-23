@@ -105,6 +105,7 @@
 | Sachin Agarwal |     |      |        |         |
 | Saijal Jain |     |      |        |         |
 | Saksham Karnawat |     |      |        |         |
+| Sakshi Goyal | III   | CSE   |  <a href="https://www.github.com/goyalsakshi246" target="_blank">goyalsakshi246</a>|         |
 | Sakshi |  I  |  CSE    |  <a href="https://github.com/sakshipareek" > sakshi pareek </a>      |         |
 | Sakshi Goyal |     |      |        |         |
 | Sambhav Jain |     |      |        |         |
@@ -134,6 +135,5 @@
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
 | Yuvank soni |     |      |        |         |
-| Yuvraj Singh Panwar |     |      |        |         |
-|  |     |      |        |         |
+| Yuvraj Singh Panwar |     |      |        |         |  |     |      |        |         |
 |  |     |      |        |         |
