@@ -91,6 +91,7 @@
 | Prachi varshney |I     |CSE      |<a href="https://www.github.com/prachivarshney972" target="_blank">prachivarshney972</a>       |         |
 | prakash Raj |     |      |        |         |
 | PRAKHAR SAXENA |     |      |        |         |
+| Pratik Bansal  |III  | IT   |<a href="https://github.com/pratik-bansal">pratikbansal</a>|  | 
 | Prashant Gupta | III |  IT   | <a href="https://github.com/Prashant3009" target="_blank">Prashant3009</a>       |         |
 | Pratham Lalawat |     |      |        |         |
 | Pratul Kumar |     |      |        |         |
