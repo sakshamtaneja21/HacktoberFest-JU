@@ -34,7 +34,7 @@
 | Aryan singh |     |      |        |         |
 | Avinash kumar | II  | CSE   | <a href="https://github.com/Avinashx" target="_blank">Avinashx</a> | #HackerBoy #You can call me X       |
 | Ayush |     |      |        |         |
-| Ayush Sharma |     |      |        |         |
+| Ayush Sharma | Final | BCA | <a href="https://github.com/ayushs089/">AyushSharma</a> | RHCOE Certified in Ansible Automation |
 | Ayush Sharma |     |      |        |         |
 | Ayushi Bansal |     |      |        |         |
 | Bhaskar Prajapati | II | CSE | <a href="https://www.github.com/bhaskar7" target="_blank">bhaskar7</a> |	|
