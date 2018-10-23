@@ -46,7 +46,11 @@
 | Dikshant Verma |     |      |        |         |
 | Divyang Bhargava |     |      |        |         |
 | Dushyant Goyal |     |      |        |         |
-| Gargi Somani |     |      |        |         |
+<<<<<<< HEAD
+| Gargi Somani |  I  | CSE     |  <a href="https://www.github.com/Gargisomani" target="_blank">Gargisomani</a>       |         |
+=======
+| Gargi Somani |  I   | CSE     |  <a href="https://www.github.com/Gargisomani" target="_blank">Gargisomani</a>      |  i am gargi somani       |
+>>>>>>> 20d3438ec2521fb718acfd6f5be485354556a631
 | Gaurav Singh yadav |     |      |        |         |
 | Gaurav Vaishnav |     |      |        |         |
 | Harsh Bhatnagar |     |      |        |         |
