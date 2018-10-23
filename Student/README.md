@@ -133,7 +133,7 @@
 | Vipin Kumar |     |      |        |         |
 | Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
-| Vishal Shukla |     |      |        |         |
+| Vishal Shukla | II  |  IT  | <a href="https://github.com/vshukla850" target="_blank">vshukla850</a> |         |
 | Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
