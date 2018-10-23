@@ -102,7 +102,7 @@
 | Reeya Agrawal |     |      |        |         |
 | riju chakraborty |     |      |        |         |
 | Rishabh Garg |     |      |        |         |
-| Roushan Prakash |     |      |        |         |
+| Prateek Khandelwal |   I  |  CSE    |<a href="htttps://www.github.com/pkkh2000">PrateekKhandelwal</a>  |         |
 | Rupin Soni |     |      |        |         |
 | Sachin Agarwal |     |      |        |         |
 | Saijal Jain |     |      |        |         |
