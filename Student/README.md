@@ -83,7 +83,7 @@
 | piyush kumar |     |      |        |         |
 | piyush sharma |     |      |        |         |
 | Piyush Vaishya |     |      |        |         |
-| Prachi varshney |     |      |        |         |
+| Prachi varshney |I     |CSE      |<a href="https://www.github.com/prachivarshney972" target="_blank">prachivarshney972</a>       |         |
 | prakash Raj |     |      |        |         |
 | PRAKHAR SAXENA |     |      |        |         |
 | Prashant Gupta | III |  IT   | <a href="https://github.com/Prashant3009" target="_blank">Prashant3009</a>       |         |
