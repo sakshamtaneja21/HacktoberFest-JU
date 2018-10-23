@@ -137,6 +137,7 @@
 | Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
+| Abhineet Kumar |   I  |    CSE  |      <a href="github.com/abhineetkumar0">abhineetkumar0 </a>  |         |
 | Yuvank soni |  I  | IT     |  <a href="https://www.github.com/yuvanksoni@gmail.com">YuvankSoni</a>      |         |
 | Yuvraj Singh Panwar |     |      |        |         |
 |Pinachi Bajaj  |  I   |   CSE   |<a href="https://github.com/pinachibajaj">pinachibajaj</a>        |         |
