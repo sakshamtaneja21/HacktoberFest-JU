@@ -1,4 +1,3 @@
-
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
 | Aakash Jaiswal |     |      |        |         |
@@ -21,7 +20,7 @@
 | Aman Jain |     |      |        |         |
 | Aman Jain |     |      |        |         |
 | Aman Vijay |     |      |        |         |
-| ANJALI ANUPAM |     |      |        |         |
+| ANJALI ANUPAM | II | CSE | <a href="https://github.com/khusbux" target="_blank">khusbux</a>     | jecrcian       | from nalanda(Bihar)        |
 | Ankur Shah |     |      |        |         |
 | ankush shekhawat |     |      |        |         |
 | Anshul Jethaliya | III | CSE | <a href="https://www.github.com/Anshul74" target="_blank">Anshul74</a> |  |
@@ -33,7 +32,7 @@
 | Arpit Goyal |     |      |        |         |
 | arun mahur |     |      |        |         |
 | Aryan singh |     |      |        |         |
-| Avinash kumar | II  | CSE | <a href="https://www.github.com/Avinashx" target="_blank">Avinashx</a>       |         |
+| Avinash kumar | II  | CSE   | <a href="https://github.com/Avinashx" target="_blank">Avinashx</a> | #HackerBoy #You can call me X       |
 | Ayush |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
