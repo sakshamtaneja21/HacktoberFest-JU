@@ -101,7 +101,7 @@
 | Ravi Gupta |     |      |        |         |
 | Ravi Kumawat |     |      |        |         |
 | Reeya Agrawal |     |      |        |         |
-| riju chakraborty |     |      |        |         |
+| Riju Chakraborty | II    |  CS    |<a href="https://github.com/RichieRij">RichieRij</a>      |         |
 | Rishabh Garg |     |      |        |         |
 | Prateek Khandelwal |   I  |  CSE    |<a href="htttps://www.github.com/pkkh2000">PrateekKhandelwal</a>  |         |
 | Rupin Soni |     |      |        |         |
