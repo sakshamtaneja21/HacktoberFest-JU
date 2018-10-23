@@ -49,7 +49,7 @@
 | Harsh Bhatnagar |     |      |        |         |
 | Hemadri Gupta |     |      |        |         |
 | Hitesh Subnani |     |      |        |         |
-| Ishu Sharma |     |      |        |         |
+| Ishu Sharma |  I   |   CSE   |      <a href="https://github.com/IshuSharma9451">ishusharma</a>   |         |
 | Jaidev Tyagi |     |      |        |         |
 | Kartik Paliwal |     |      |        |         |
 | Kashish Nagpal |     |      |        |         |
@@ -66,7 +66,7 @@
 | Manav Jangid |     |      |        |         |
 | Mayank Devnani |     |      |        |         |
 | meenal sarda |     |      |        |         |
-| Mohit Sharma |     |      |        |         |
+| mrigank saxena |1st year      | branch      |<a href ="https://github.com/mrigankS30/"> mrigankS30 </a>      |         |
 | molishree nuwal |     |      |        |         |
 | Moulik Aggarwal |     |      |        |         |
 | mridul upadhyay |     |      |        |         |
@@ -105,8 +105,9 @@
 | Sachin Agarwal |     |      |        |         |
 | Saijal Jain |     |      |        |         |
 | Saksham Karnawat |     |      |        |         |
-| Sakshi |     |      |        |         |
 | Sakshi Goyal | III   | CSE   |  <a href="https://www.github.com/goyalsakshi246" target="_blank">goyalsakshi246</a>|         |
+| Sakshi |  I  |  CSE    |  <a href="https://github.com/sakshipareek" > sakshi pareek </a>      |         |
+| Sakshi Goyal |     |      |        |         |
 | Sambhav Jain |     |      |        |         |
 | samiksha paliwal |     |      |        |         |
 | Shashank Tiwari |     |      |        |         |
