@@ -98,7 +98,7 @@
 | Puneet Mathur |     |      |        |         |
 | Pushpender Singh Rajawat |     |      |        |         |
 | Rajat Agarwal |     |      |        |         |
-| Ram Kakkar |     |      |        |         |
+| Ram Kakkar |  II   |   CSE   |  <a href="https://www.github.com/iamramkakkar" target="_blank">ramkakkar</a>      |         |
 | Raman Sati |     |      |        |         |
 | Ravi Gupta |     |      |        |         |
 | Ravi Kumawat |     |      |        |         |
