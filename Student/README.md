@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 | Mohit Nama | 1st | CSE     |  <a href="http://www.github.com/mhtnama08" target="_blank">mhtnama08</a> |         |
 | Niteesh Pandey | II | CSE | <a herf="https://www.github.com/niteeshpandey" target="_blank">niteeshpandey</a>       |         |
-| Aakash Jaiswal |  https://github.com/kirtibajaj/HacktoberFest-JU.git   |      |
+| Aakash Jaiswal |     |      |
 | aastha jain |     |      |        |         |
 | Abhinav Saxena |     |      |        |         |
 | Abhishek Yadav |     |      |        |         |
