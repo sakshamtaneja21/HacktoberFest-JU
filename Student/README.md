@@ -82,8 +82,9 @@
 | Nikita Goyal |     |      |        |         |
 | Nimish Agarwal |     |      |        |         |
 | Niral Shah |     |      |        |         |
+| Parth Agarwal |     |      |        |         |
+| Piyush Agarwal |II|CSE|<a href="https://www.github.com/piyushagarwal08">piyushagarwal</a>|i am a dedicated learner and very much interested in python and its applications.        |
 | Naveen Lalwani |I     | IT     | <a href="http://www.github.com/naveenlalwani1999">naveenlalwani</a>       |         |
-| Piyush Agarwal |     |      |        |         |
 | piyush kumar |     |      |        |         |
 | piyush sharma |     |      |        |         |
 | Piyush Vaishya |     |      |        |         |
@@ -132,8 +133,8 @@
 | Vaishali Singh |     |      |        |         |
 | Vaishnavi Ajmera |     |      |        |         |
 | Vidhan |     |      |        |         |
+| Vishal Chauhan |II|CSE|<a href="https://www.github.com/v4vnc">vishalchauhan</a>|I love python|
 | Vipin Kumar |   II  | CSE     |<a href="https://www.github.com/vipinkumarpsr" target="_blank">vipinkumar</a>         |         |
-| Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
 | Vivek Jain      |I|IT|<a href="https://www.github.com/vivekjain9801">vivekjain9801</a>
 | Yajushi Srivastava | IV | CSE | <a href="https://github.com/yajushiSri/">YajushiSrivastava</a> | Docker Jaipur, Community Leader; PyJaipur Core Team |
