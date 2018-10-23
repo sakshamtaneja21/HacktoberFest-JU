@@ -37,6 +37,7 @@
 | Ayush Sharma |     |      |        |         |
 | Ayush Sharma |     |      |        |         |
 | Ayushi Bansal |     |      |        |         |
+| Bhaskar Prajapati | II | CSE | <a href="https://www.github.com/bhaskar7" target="_blank">bhaskar7</a> |	|
 | bhavesh parihar |     |      |        |         |
 | Bhavya Choubisa |     |      |        |         |
 | deepak kabra |     |      |        |         |
