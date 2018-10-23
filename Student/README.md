@@ -32,10 +32,9 @@
 | Arpit Goyal |     |      |        |         |
 | arun mahur |     |      |        |         |
 | Aryan singh |     |      |        |         |
+| Ayush |Ist year     |BCA      |<a herf="https://www.github.com/aayush7037">aayush7037</a>         |
 | Avinash kumar | II  | CSE   | <a href="https://github.com/Avinashx" target="_blank">Avinashx</a> | #HackerBoy #You can call me X       |
-| Ayush |     |      |        |         |
 | Ayush Sharma | Final | BCA | <a href="https://github.com/ayushs089/">AyushSharma</a> | RHCOE Certified in Ansible Automation |
-| Ayush Sharma |     |      |        |         |
 | Mayankita Rana |  I   |   CSE   |  <a href= " https://github.com/mayankitarana"> mayankitarana</a>     |         |
 | Ayushi Bansal |     |      |        |         |
 | Bhaskar Prajapati | II | CSE | <a href="https://www.github.com/bhaskar7" target="_blank">bhaskar7</a> |	|
@@ -67,7 +66,7 @@
 | Kushagra Wadhwa |     |      |        |         |
 | Lakshya Singhvi |     |      |        |         |
 | Mahima Khandelwal |     |      |        |         |
-| Manav Jangid |     |      |        |         |
+| Manav Jangid |  I   |   IT   |   <a herf="https://www.github.com/manav333">Manav333</a>     |         |
 | Mayank Devnani |     |      |        |         |
 | meenal sarda |   III | CSE  |  <a href="https://github.com/meenalsarda">meenalsarda</a>|         |
 | Mohit Sharma |     |      |        |         |
