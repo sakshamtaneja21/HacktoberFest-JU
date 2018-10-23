@@ -1,6 +1,6 @@
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
-| Aakash Jaiswal |     |      |        |         |
+| Mohit Nama | 1st | CSE     |  <a href="http://www.github.com/mhtnama08" target="_blank">mhtnama08</a> |         |
 | Niteesh Pandey | II | CSE | <a herf="https://www.github.com/niteeshpandey" target="_blank">niteeshpandey</a>       |         |
 | Aakash Jaiswal |  https://github.com/kirtibajaj/HacktoberFest-JU.git   |      |
 | aastha jain |     |      |        |         |
@@ -46,11 +46,7 @@
 | Dikshant Verma |     |      |        |         |
 | Divyang Bhargava |     |      |        |         |
 | Dushyant Goyal |     |      |        |         |
-<<<<<<< HEAD
-| Gargi Somani |  I  | CSE     |  <a href="https://www.github.com/Gargisomani" target="_blank">Gargisomani</a>       |         |
-=======
 | Gargi Somani |  I   | CSE     |  <a href="https://www.github.com/Gargisomani" target="_blank">Gargisomani</a>      |  i am gargi somani       |
->>>>>>> 20d3438ec2521fb718acfd6f5be485354556a631
 | Gaurav Singh yadav |     |      |        |         |
 | Gaurav Vaishnav |     |      |        |         |
 | Harsh Bhatnagar |     |      |        |         |
