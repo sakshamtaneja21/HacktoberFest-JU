@@ -28,7 +28,7 @@
 | Anubhav Sharma |     |      |        |         |
 | Anuj Sharma |     |      |        |         |
 | Arihant Bothra |     |      |        |         |
-| Arpit Goyal |     |      |        |         |
+| Mansi Pandey | II    |  CSE    | <a href="https://www.github.com/mansipandey">mansipandey</a>   |         |
 | Arpit Goyal |     |      |        |         |
 | arun mahur |     |      |        |         |
 | Aryan singh |     |      |        |         |
