@@ -133,8 +133,8 @@
 | Vipin Kumar |   II  | CSE     |<a href="https://www.github.com/vipinkumarpsr" target="_blank">vipinkumar</a>         |         |
 | Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
+| Yajushi Srivastava | IV | CSE | <a href="https://github.com/yajushiSri/">YajushiSrivastava</a> | Docker Jaipur, Community Leader; PyJaipur Core Team |
 | Vishal Shukla | II  |  IT  | <a href="https://github.com/vshukla850" target="_blank">vshukla850</a> |         |
-| Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
 | YASH JAIN |     |      |        |         |
 | Abhineet Kumar |   I  |    CSE  |      <a href="github.com/abhineetkumar0">abhineetkumar0 </a>  |         |
