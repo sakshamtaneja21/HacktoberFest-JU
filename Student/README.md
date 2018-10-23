@@ -69,7 +69,8 @@
 | Mahima Khandelwal |     |      |        |         |
 | Manav Jangid |     |      |        |         |
 | Mayank Devnani |     |      |        |         |
-| meenal sarda |     |      |        |         |
+| meenal sarda |   III | CSE  |  <a href="https://github.com/meenalsarda">meenalsarda</a>|         |
+| Mohit Sharma |     |      |        |         |
 | mrigank saxena |1st year      | branch      |<a href ="https://github.com/mrigankS30/"> mrigankS30 </a>      |         |
 | molishree nuwal |     |      |        |         |
 | Moulik Aggarwal |     |      |        |         |
