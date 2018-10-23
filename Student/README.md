@@ -75,7 +75,7 @@
 | Moulik Aggarwal |     |      |        |         |
 | mridul upadhyay |     |      |        |         |
 | mukul chhipa |     |      |        |         |
-| Mukul Gautam |     |      |        |         |
+| Mukul Gautam |1st     |  cse    |  <a href="http://www.github.com/mukul2gautam">mukulgautam</a>      |         |
 | muskan arora |     |      |        |         |
 | Naman Jain |     |      |        |         |
 | Naval kumar |     |      |        |         |
