@@ -1,7 +1,8 @@
 | Name | Year | Branch | GithubId | About me |
 | --- | --- | --- | --- | --- |
 | Mohit Nama | 1st | CSE     |  <a href="http://www.github.com/mhtnama08" target="_blank">mhtnama08</a> |         |
-| Niteesh Pandey | II | CSE | <a herf="https://www.github.com/niteeshpandey" target="_blank">niteeshpandey</a>       |         |
+| Niteesh Pandey | II | CSE | <a herf="https://www.github.com/niteeshpandey" target="_blank">niteeshpandey</a>       | 
+|SAKSHAM TANEJA | II | IT | <a href="https://www.github.com/sakshamtaneja21">Sakshamtaneja21</a> |<a href="https://www.linkedin.com/in/tanejasaksham">linkedin</a>        |
 | Aakash Jaiswal |     |      |
 | aastha jain |     |      |        |         |
 | Abhinav Saxena |     |      |        |         |
